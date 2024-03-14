@@ -8,13 +8,13 @@ tags:
 ![[hay-cham-soc-me.png]]
 cuốn sách này làm mình nhớ đến câu nói:
 
-> "phải có cái gì đó mất đi, người ta mới nhận ra những ngày bình thường là hạnh phúc"
+> **"phải có cái gì đó mất đi, người ta mới nhận ra những ngày bình thường là hạnh phúc"**
 
 sau khi người mẹ mất tích vì không theo kịp bố trên chuyến tàu đến Seoul - nơi các con của họ đang ở, từng thành viên trong gia đình (những người ở lại) phải nhìn lại mình, nhìn lại mối tương quan thường ngày của mình với mẹ.
 
-nội dung câu chuyện cũng đã khiến mình phải nhìn lại mối tương quan với chính bản thân và với những người xung quanh, những người đang bên cạnh và cả những người bước qua cuộc đời mình vì vô tình hay hữu ý mà mình quên mất.
+nội dung câu chuyện cũng đã khiến mình phải nhìn lại mối tương quan với chính bản thân và với những người xung quanh, những người đang bên cạnh và cả những người bước qua cuộc đời mình vì vô tình hay hữu ý mà mình "lỡ".
 
-câu nói ấn tượng:
+câu trích dẫn ấn tượng:
 > Có những khoảnh khắc mà người ta thường suy ngẫm lại sau khi có việc gì đó xảy ra, nhất là sau khi chuyện không may xảy ra. Khoảnh khắc mà người đó nghĩ: "Lẽ ra mình không nên làm vậy".
 
 > Khi vô cùng hoảng hốt thì người ta chẳng thể nghĩ ra mình phải làm gì.
@@ -27,4 +27,4 @@ câu nói ấn tượng:
 
 > Mọi điều đều có một thời điểm thích hợp để nói ra.
 
-hãy yêu thương khi còn có thể nhé!
+hãy yêu thương khi còn có thể nhé! ♥️♥️♥️
