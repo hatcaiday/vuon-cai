@@ -8,6 +8,8 @@ tags:
 ![[hay-cham-soc-me.png]]
 
 ![[hay-cham-soc-me-2.png]]
+![[hay-cham-soc-me-3.png]]
+![[hay-cham-soc-me-4.png]]
 cuốn sách này làm mình nhớ đến câu nói:
 
 > **"phải có cái gì đó mất đi, người ta mới nhận ra những ngày bình thường là hạnh phúc"**
