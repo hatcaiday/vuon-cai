@@ -14,7 +14,7 @@ sau khi người mẹ mất tích vì không theo kịp bố trên chuyến tàu
 
 nội dung câu chuyện cũng đã khiến mình phải nhìn lại mối tương quan với chính bản thân và với những người xung quanh, những người đang bên cạnh và cả những người bước qua cuộc đời mình vì vô tình hay hữu ý mà mình "lỡ".
 
-câu trích dẫn ấn tượng:
+🌱 câu trích dẫn ấn tượng:
 > Có những khoảnh khắc mà người ta thường suy ngẫm lại sau khi có việc gì đó xảy ra, nhất là sau khi chuyện không may xảy ra. Khoảnh khắc mà người đó nghĩ: "Lẽ ra mình không nên làm vậy".
 
 > Khi vô cùng hoảng hốt thì người ta chẳng thể nghĩ ra mình phải làm gì.
