@@ -2,6 +2,7 @@
 title: Hãy chăm sóc mẹ
 rating:
   - ⭐⭐⭐⭐
+author: Shin Kyung-sook
 tags:
   - tieu-thuyet
 ---
