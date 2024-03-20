@@ -1,8 +1,8 @@
 ---
 title: Người đua diều
+author: Khaled Hosseini
 rating:
   - ⭐⭐⭐⭐⭐
-author: Khaled Hosseini
 tags:
   - tieu-thuyet
 ---
@@ -19,7 +19,7 @@ rằng:
 
 Cuốn sách mang cho mình nhiều cảm xúc, không chỉ bởi sự hối hận về chuyện của Amir đã làm với Hassan mà còn về sự đau khổ của những con người sống trong thời kỳ ấy. Nó giống như một vết dao âm ỉ cứa từng nhát, từng nhát. Mình yêu áng văn của tác giả, và cả dịch giả đã dịch cuốn sách này, không phô trương hoa mỹ. Cuốn sách giúp mình ngộ ra rằng:
 
-Cuộc sống này không biết ngày mai sẽ ra sao, nhưng lương tâm và lòng tốt luôn phải hiện diện trong mỗi người, nó có thể được xem là một sự cốt lõi của một con người. Vì khi đó ta có thể cảm thông với chính mình, với người khác và với thế giới này, một điều nữa là: 
+Cuộc sống này không biết ngày mai sẽ ra sao, nhưng lương tâm và lòng tốt luôn phải hiện diện trong mỗi người, nó có thể được xem là một sự cốt lõi của một con người. Vì khi đó ta có thể cảm thông với chính mình, với người khác và với thế giới này, một điều nữa là:
 
 **Ta luôn phải chuẩn bị cho những trường hợp xấu, bởi cuộc đời vốn như vậy, nếu không chuẩn bị thì ta không thể nào vượt qua được nỗi đau, mà nỗi đau thì khiến con người khó quên và khó vượt lên được.**
 
