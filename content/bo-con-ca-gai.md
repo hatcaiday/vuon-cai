@@ -5,6 +5,7 @@ rating:
   - ⭐⭐⭐⭐⭐
 tags:
   - tieu-thuyet
+date: 2022-04-15
 ---
 ![[bo-con-ca-gai.png]]
 

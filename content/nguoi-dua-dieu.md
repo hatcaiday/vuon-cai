@@ -5,6 +5,7 @@ rating:
   - ⭐⭐⭐⭐⭐
 tags:
   - tieu-thuyet
+date: 2023-07-07
 ---
 ![[nguoi-dua-dieu.png]]
 

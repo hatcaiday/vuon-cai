@@ -5,6 +5,7 @@ rating:
   - ⭐⭐⭐⭐⭐
 tags:
   - ky-nang
+date: 2024-01-19
 ---
 ![[dan-than.png]]
 
