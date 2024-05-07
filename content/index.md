@@ -1,9 +1,12 @@
 ---
 title: cải xin chào,
 ---
+![[cai-home.gif]]
+🌱 cải xin chào,
 
-chào mừng bạn đến với khu vườn của mình,
-mình là hạt cải, một hạt đang gieo,
+chào mừng bạn đến với khu vườn của mình, mình là hạt cải, một hạt đang gieo,
 
-đây là nơi mình sẽ ghi chú lại những suy nghĩ về những cuốn sách mình đã đọc hay những cảm nhận của mình về chúng, hy vọng hạt sách này sẽ nảy mầm thành một rừng cây 🎄🌳🎄
-![[00.index-book-cover.png]]
+đây là nơi mình sẽ gieo những hạt giống để một mai nó sẽ nảy mầm thành một rừng cây 🎄🌳🎄
+
+hy vọng khu vườn của cải sẽ đem lại thật nhiều của cải cho bạn 😇
+

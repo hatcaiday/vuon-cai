@@ -4,6 +4,7 @@ author: Shin Kyung-sook
 rating:
   - ⭐⭐⭐⭐
 tags:
+  - sach
   - tieu-thuyet
 date: 2024-03-05
 ---

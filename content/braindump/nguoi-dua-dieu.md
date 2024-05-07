@@ -4,6 +4,7 @@ author: Khaled Hosseini
 rating:
   - ⭐⭐⭐⭐⭐
 tags:
+  - sach
   - tieu-thuyet
 date: 2023-07-07
 ---
