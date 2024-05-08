@@ -35,7 +35,7 @@ Mỗi tối mình dành khoảng 30 phút để review lại xem hôm nay mình 
 Sau một khoảng thời gian tìm hiểu, áp dụng mình cũng sử dụng nhiều app để thực hiện việc này nhưng mình vẫn thấy phức tạp, việc mình cần tập trung chỉ cần làm và mình đã tối giản lại chỉ còn sử dụng duy nhất [Google calendar](https://calendar.google.com/) để quản lý thời gian.
 
 - 1. Xác định task quan trọng cần phải làm (thông thường là 3 task)
-- 2. Sắp xếp thời gian để làm các task đó trên Google Calendar. Bạn có thể xem [cách sử dụng google calendar](https://hatcaiday.github.io/vuon-cai/notes/google-calendar).
+- 2. Sắp xếp thời gian để làm các task đó trên Google Calendar. Bạn có thể xem cách sử dụng [[google-calendar]][cách sử dụng google calendar]
 
 Để lên kế hoạch cho từng ngày trước tiên bạn xác định những công việc thường ngày cho nó
 
