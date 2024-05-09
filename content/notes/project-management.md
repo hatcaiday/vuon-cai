@@ -5,8 +5,6 @@ draft: false
 ---
 ### Quản lý dự án là gì?
 
-
-
 1. Quản lý tích hợp (Project Integration Management)
 2. Quản lý phạm vi công việc (Project Scope Management)
 3. Quản lý tiến độ (Project Schedule Management)

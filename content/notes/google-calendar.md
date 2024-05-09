@@ -22,7 +22,7 @@ Setup các nhóm để có thể gom lại các task, mỗi nhóm gắn với m�
 - 🍵 Daily - `#f9eccf`: Những hoạt động hằng ngày, routine, tắm, gội,...
 - 💡 Creation - `#5a8559`: Những hoạt động sáng tạo: Viết blog, design...
 - 📋 Work - `#e1edbd`: Những hoạt động trong công việc, task, họp hành (tất tần tật mọi thứ liên quan đến công việc)
-- 📚 Read - `#916847`: Đọc sách
+- 📚 Read - `#916847`: Đọc sách, note sách và review sách...
 - 📝 Study - `#2f61a7`: Những hoạt động học hành, nâng cao kiến thức: Học tiếng anh, khóa học...
 - 🚴‍♂️ Exercise - `#fedd9e`: Những hoạt động thể dục thể thao
 
@@ -30,4 +30,5 @@ Setup các nhóm để có thể gom lại các task, mỗi nhóm gắn với m�
 
 #### 3. Tạo event
 Cách tạo event rất đơn giản, bạn chỉ cần dùng chuột kéo thả vào khung thời gian muốn tạo event, sau đó điền các thông tin cho event đó.
+
 ![[create-event.png]]

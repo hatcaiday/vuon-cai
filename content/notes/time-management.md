@@ -59,3 +59,7 @@ Mình sử dụng todo của Google Calendar để tạo task luôn
 Sau khi đã tạo task, bạn theo dõi công việc của mình và điều chỉnh cho sát với thời gian bạn cần làm nhất.
 
 Cuối cùng, hãy nhìn ngắm thành quả và theo dõi xem phương pháp nào phù hợp với bạn nha 💪
+
+⚠️ Một lưu ý là mọi người đừng quá phức tạp hóa nhé, ban đầu mình chỉ cần thực hiện việc lên kế hoạch cho ngày theo 3 bước, sau đó sẽ triển khai thêm chứ đừng ép mình, hãy cứ làm những điều khiến mình thoải mái mà vẫn keep được mục tiêu.
+
+Đây là một vài tips để quản lý thời gian hiệu quả, bạn có thể tham khảo: https://www.youtube.com/watch?v=ISHC4kuVqRA
