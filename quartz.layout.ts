@@ -25,6 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    // Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3, linkToMore: "braindump", filter: })),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [

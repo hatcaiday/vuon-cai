@@ -10,5 +10,6 @@ chào mừng bạn đến với khu vườn của mình, mình là hạt cải, 
 
 hy vọng khu vườn của cải sẽ đem lại thật nhiều của cải cho bạn 😇
 
-1. [Notes](/notes/index.md)
-2. [Braindump](/braindump/index.md)
+- [Notes](/notes/index.md)
+- [Braindump](braindump/index.md)
+- [Bookshelf](books.md)
