@@ -11,7 +11,6 @@ draft: true
 ### Các thành phần của quản lý chi phí
 
 1. **Chi phí nguyên vật liệu**
--
 2. **Chi phí nguồn nhân lực**
 3. **Chi phí chuẩn bị trước**
 4. **Chi phí vận hành**

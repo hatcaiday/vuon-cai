@@ -8,6 +8,7 @@ date: 2024-05-09
 ## Read
 
 #### 2024
+- [**Thiện, ác và smartphone**](/braindump/thien-ac-va-smartphone) by Đặng Hoàng Giang
 - **Vang bóng một thời** by Nguyễn Tuân
 - **Những ngày thơ ấu** by Nguyên Hồng
 - [**Tuổi thơ dữ dội**](/braindump/tuoi-tho-du-doi.md) by Phùng Quán
