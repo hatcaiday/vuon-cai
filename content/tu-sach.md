@@ -15,7 +15,7 @@ date: 2024-05-09
 - **Sapiens lược sử loài người** by Yuval Noah Harari
 - [**Hãy chăm sóc mẹ**](braindump/hay-cham-soc-me.md) by Shin Kyung Sook
 - **Vợ nhặt** by Kim Lân
-- **Tự thú của Thánh Augustine** by Augustine of Hippo
+- [**Tự thú của Thánh Augustine**](braindump/tu-thu-cua-thanh-augustine) by Augustine of Hippo
 - **Tôi, tương lai và thế giới** by Nguyễn Phi Vân
 - **Tắt đèn** by Ngô Tất Tố
 - [**Dấn thân**](braindump/dan-than.md) by Sheryl Sandberg
