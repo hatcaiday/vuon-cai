@@ -4,7 +4,7 @@ date: 2024-06-19
 ---
 
 
-Tương tự Ruby, mỗi năm Rails cho ra một phiên bản với những tính năng mới được cập nhật, bên cạnh đó cũng dừng hỗ trợ hay thêm các bản vá cho các [version cũ](https://endoflife.date/rails). Việc cập nhật đôi khi phức tạp và khó khăn nhưng những lợi ích nó mang lại sẽ giúp bạn tránh được các rủi ro sau này. Dưới đây, chúng ta cùng thảo luận kỹ hơn về cách cập nhật phiên bản cho Rails nhé. Nhìn chung, các bước upgrade Rails cũng tương tự upgrade Ruby, tuy nhiên có thêm một vài lưu ý khác
+Tương tự Ruby, mỗi năm Rails cho ra một phiên bản với những tính năng mới được cập nhật, bên cạnh đó cũng dừng hỗ trợ hay thêm các bản vá cho các [version cũ](https://endoflife.date/rails). Việc cập nhật đôi khi phức tạp và khó khăn nhưng những lợi ích nó mang lại sẽ giúp bạn tránh được các rủi ro sau này. Dưới đây, chúng ta cùng thảo luận kỹ hơn về cách cập nhật phiên bản cho Rails nhé. Nhìn chung, các bước upgrade Rails cũng tương tự upgrade Ruby, tuy nhiên có thêm một vài lưu ý khác.
 
 ## Bước 1: Chuẩn bị
 
@@ -14,7 +14,7 @@ Tương tự Ruby, mỗi năm Rails cho ra một phiên bản với những tín
 - Lựa chọn phiên bản mục tiêu:
   - Bạn có thể tìm danh sách phiên bản được Rails phát hành ở [đây](https://rubygems.org/gems/rails/versions) để quyết định xem phiên bản mục tiêu mình sẽ nâng là gì.
   - Lời khuyên là sẽ nâng dần dần, từng bước một và chỉ nâng lên phiên bản kế tiếp ổn định. Điều này giúp tránh những thay đổi lớn có thể gây ra những khó khăn không mong muốn.
-  - Kiểm tra Ruby version hiện tại có tương thích với phiên bản Rails mong muốn không. Nếu phiên bản Ruby không tương thích bạn có thể xem [Hướng dẫn nâng cấp Ruby](/notes/upgrade-ruby-version)	  
+  - Kiểm tra Ruby version hiện tại có tương thích với phiên bản Rails mong muốn không. Nếu phiên bản Ruby không tương thích bạn có thể xem [Hướng dẫn nâng cấp Ruby](/notes/upgrade-ruby-version)
 	  - Rails 7 requires Ruby 2.7.0 or newer.
 	- Rails 6 requires Ruby 2.5.0 or newer.
 	- Rails 5 requires Ruby 2.2.2 or newer.
@@ -49,6 +49,7 @@ RUBYOPT='-W:deprecated' bundle exec rspec
 	  - Bước 3: Liệt kê các gem ảnh hưởng.
   - Đánh giá ảnh hưởng, tìm gem version tương thích.
   - List changelog của gem xem có ảnh hưởng đến source code của dự án không.
+
 #### 3.2. Implement
 
 1. Implement changelog Rails ảnh hưởng
@@ -56,12 +57,11 @@ RUBYOPT='-W:deprecated' bundle exec rspec
 3. Run RSpec, list warning, failure case và resolve những warning và failure case đó.
 
 #### 3.3. List các phần ảnh hưởng
-- List những phần đã thay đổi cho QA, điều này giúp giảm thiểu effort khi test, giúp QA chú trọng test kỹ hơn phần thay đổi. 
+- List những phần đã thay đổi cho QA, điều này giúp giảm thiểu effort khi test, giúp QA chú trọng test kỹ hơn phần thay đổi.
 
 ## Bước 4: Thực hiện test
 - Chuẩn bị 2 môi trường tương ứng với 2 version cũ và mới.
 - Thực hiện test đảm bảo function trên môi trường mới hoạt động giống môi trường cũ.
-
 
 ## Lưu ý khi upgrade:
 
