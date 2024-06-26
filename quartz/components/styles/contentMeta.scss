@@ -1,6 +1,9 @@
 .content-meta {
   margin-top: 0;
   color: var(--gray);
+  font-family: "Waterfall", cursive;
+  font-weight: 400;
+  font-style: normal;
 
   &[show-comma="true"] {
     > span:not(:last-child) {

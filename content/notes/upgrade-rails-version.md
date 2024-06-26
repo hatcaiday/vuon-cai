@@ -3,14 +3,13 @@ title: Hướng dẫn nâng cấp phiên bản Rails
 date: 2024-06-19
 ---
 
-
 Tương tự Ruby, mỗi năm Rails cho ra một phiên bản với những tính năng mới được cập nhật, bên cạnh đó cũng dừng hỗ trợ hay thêm các bản vá cho các [version cũ](https://endoflife.date/rails). Việc cập nhật đôi khi phức tạp và khó khăn nhưng những lợi ích nó mang lại sẽ giúp bạn tránh được các rủi ro sau này. Dưới đây, chúng ta cùng thảo luận kỹ hơn về cách cập nhật phiên bản cho Rails nhé. Nhìn chung, các bước upgrade Rails cũng tương tự upgrade Ruby, tuy nhiên có thêm một vài lưu ý khác.
 
 ## Bước 1: Chuẩn bị
 
 **1. Đánh giá phiên bản Rails hiện tại và lựa chọn phiên bản mục tiêu:**
 
-- Kiểm tra phiên bản Rails đang sử dụng.
+1.  Kiểm tra phiên bản Rails đang sử dụng.
 - Lựa chọn phiên bản mục tiêu:
   - Bạn có thể tìm danh sách phiên bản được Rails phát hành ở [đây](https://rubygems.org/gems/rails/versions) để quyết định xem phiên bản mục tiêu mình sẽ nâng là gì.
   - Lời khuyên là sẽ nâng dần dần, từng bước một và chỉ nâng lên phiên bản kế tiếp ổn định. Điều này giúp tránh những thay đổi lớn có thể gây ra những khó khăn không mong muốn.

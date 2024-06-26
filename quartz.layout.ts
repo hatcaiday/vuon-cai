@@ -25,12 +25,36 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    // Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3, linkToMore: "braindump", filter: })),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Bài viết gần đây", limit: 3, linkToMore: "braindump" })),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Ghi chú gần đây", limit: 2, linkToMore: "notes" })),
+    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.Explorer()),
+    // Component.TableOfContents(),
+    // Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
+}
+
+export const defaultContentPageLayoutIndex: PageLayout = {
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3, linkToMore: "braindump" })),
+  ],
+  right: [
+    Component.Graph(),
     Component.Backlinks(),
   ],
 }
@@ -43,7 +67,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }

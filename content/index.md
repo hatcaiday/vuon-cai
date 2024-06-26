@@ -1,5 +1,6 @@
 ---
 title: cải xin chào,
+date: 2024-05-01
 ---
 ![[cai-home.gif]]
 🌱 cải xin chào,
@@ -10,6 +11,6 @@ chào mừng bạn đến với khu vườn của mình, mình là hạt cải, 
 
 hy vọng khu vườn của cải sẽ đem lại thật nhiều của cải cho bạn 😇
 
-- [Notes](/notes/index.md)
-- [Braindump](braindump/index.md)
-- [Bookshelf](tu-sach.md)
+- [Ghi chú](/notes/index.md)
+- [Những suy nghĩ](braindump/index.md)
+- [Tủ sách](tu-sach.md)
