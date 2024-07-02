@@ -25,17 +25,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Bài viết gần đây", limit: 3, linkToMore: "braindump" })),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Ghi chú gần đây", limit: 2, linkToMore: "notes" })),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Bài viết gần đây", limit: 3, linkToMore: "cay" })),
+    // Component.DesktopOnly(Component.RecentNotes({ title: "Ghi chú gần đây", limit: 2, linkToMore: "mam", filter: {date: 'desc'} })),
+    // Component.DesktopOnly(Component.TableOfContents()),
     // Component.DesktopOnly(Component.Explorer()),
     // Component.TableOfContents(),
     // Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
-    // Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.Backlinks(),
   ],
 }
 
