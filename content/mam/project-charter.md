@@ -6,7 +6,7 @@ tags:
 ---
 ## Project Charter là gì?
 
-**Project Charter** là một khái niệm trong [Quản lý dự án](/notes/project-management)
+**Project Charter** là một khái niệm trong [Quản lý dự án](project-management.md)
 **Project Charter** (_**Hiến chương dự án**_ hoặc _**Điều lệ dự án**_) là tài liệu do người khởi xướng dự án (project initiator) hoặc nhà tài trợ (sponsor) ban hành chính thức **cho phép sự tồn tại của một dự án** và **cung cấp cho người project manager quyền** áp dụng các nguồn lực tổ chức vào các hoạt động của dự án.
 
 ## Nội dung của Project Charter bao gồm :

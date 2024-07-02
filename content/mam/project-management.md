@@ -8,7 +8,7 @@ draft: false
 1. Quản lý tích hợp (Project Integration Management)
 2. Quản lý phạm vi công việc (Project Scope Management)
 3. Quản lý tiến độ (Project Schedule Management)
-4. [Quản lý chi phí](notes/project-cost-management.md) (Project Cost Management)
+4. [Quản lý chi phí](project-cost-management.md) (Project Cost Management)
 5. Quản lý chất lượng (Project Quality Management)
 6. Quản lý nguồn lực (Project Resource Management)
 7. Quản lý giao tiếp (Project Communication Management)

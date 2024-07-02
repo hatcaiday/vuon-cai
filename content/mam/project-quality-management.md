@@ -12,7 +12,7 @@ Quản lý chất lượng gồm 3 bước: Plan Quality Management, Manage Qual
 ### Plan Quality Management
 
 Inputs:
-- [Project charter](/notes/project-charter)
+- [Project charter](project-charter.md)
 - Project management plan
 	+ Requirements Management Plan  
 	+ Risk Management Plan  

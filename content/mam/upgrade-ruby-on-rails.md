@@ -33,5 +33,5 @@ Việc tìm kiếm hỗ trợ cho Ruby 2.7, Rails 6.0 trở nên khó khăn hơn
 
 Nâng cấp phiên bản Ruby / Rails là một việc làm quan trọng để bảo vệ dự án khỏi các mối đe dọa bảo mật, cải thiện hiệu suất và đảm bảo khả năng duy trì lâu dài. Vậy nên việc dành thời gian và nguồn lực để lên kế hoạch và thực hiện nâng cấp Ruby / Rails một cách hiệu quả, đảm bảo sự an toàn và thành công cho dự án là cần thiết.
 
-[Hướng dẫn nâng cấp phiên bản Ruby](/notes/upgrade-ruby-version)
-[Hướng dẫn nâng cấp phiên bản Rails](/notes/upgrade-rails-version)
+[Hướng dẫn nâng cấp phiên bản Ruby](upgrade-ruby-version.md)
+[Hướng dẫn nâng cấp phiên bản Rails](upgrade-rails-version.md)

@@ -13,7 +13,7 @@ Tương tự Ruby, mỗi năm Rails cho ra một phiên bản với những tín
 - Lựa chọn phiên bản mục tiêu:
   - Bạn có thể tìm danh sách phiên bản được Rails phát hành ở [đây](https://rubygems.org/gems/rails/versions) để quyết định xem phiên bản mục tiêu mình sẽ nâng là gì.
   - Lời khuyên là sẽ nâng dần dần, từng bước một và chỉ nâng lên phiên bản kế tiếp ổn định. Điều này giúp tránh những thay đổi lớn có thể gây ra những khó khăn không mong muốn.
-  - Kiểm tra Ruby version hiện tại có tương thích với phiên bản Rails mong muốn không. Nếu phiên bản Ruby không tương thích bạn có thể xem [Hướng dẫn nâng cấp Ruby](/notes/upgrade-ruby-version)
+  - Kiểm tra Ruby version hiện tại có tương thích với phiên bản Rails mong muốn không. Nếu phiên bản Ruby không tương thích bạn có thể xem [Hướng dẫn nâng cấp Ruby](upgrade-ruby-version.md)
 	  - Rails 7 requires Ruby 2.7.0 or newer.
 	- Rails 6 requires Ruby 2.5.0 or newer.
 	- Rails 5 requires Ruby 2.2.2 or newer.
